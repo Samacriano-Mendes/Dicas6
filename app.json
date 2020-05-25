@@ -1,0 +1,26 @@
+{
+  "id": "8b8ec05b-df19-41c0-a4d6-a56425da891b",
+  "name": "Dicas6",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://Dicas6.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0"
+}
