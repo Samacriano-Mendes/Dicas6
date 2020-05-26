@@ -5,13 +5,14 @@ page 50111 "Reward Card"
     SourceTable = Reward;
     Caption = 'Reward Card';
 
+
     layout
     {
         area(content)
         {
             group(General)
             {
-                field("Description "; "Description ")
+                field("Description "; "Description")
                 {
                     ApplicationArea = All;
                 }

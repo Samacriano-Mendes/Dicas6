@@ -10,9 +10,9 @@ table 50110 Reward
         {
             Caption = 'Reward ID ';
         }
-        field(2; "Description "; Text[250])
+        field(2; "Description"; Text[250])
         {
-            Caption = 'Description ';
+            Caption = 'Description';
             NotBlank = true;
         }
         field(3; "Discount Percentage"; Decimal)

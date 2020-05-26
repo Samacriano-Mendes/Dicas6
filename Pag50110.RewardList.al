@@ -6,6 +6,7 @@ page 50110 "Reward List"
     Caption = 'Reward List';
     ApplicationArea = All;
     UsageCategory = Lists;
+    CardPageId = "Reward Card";
 
     layout
     {
@@ -13,7 +14,7 @@ page 50110 "Reward List"
         {
             repeater(General)
             {
-                field("Description "; "Description ")
+                field("Description "; "Description")
                 {
                     ApplicationArea = All;
                 }
